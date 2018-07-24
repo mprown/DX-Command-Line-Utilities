@@ -1,4 +1,4 @@
-
+#!/bin/bash
     function project() {
     # Check if any arguments are passed
     if [ "$#" = 0]; then

@@ -1,4 +1,4 @@
-
+#!/bin/bash
     project(){
     # Check if any arguments are passed
     if [ -z "$1" ]; then
